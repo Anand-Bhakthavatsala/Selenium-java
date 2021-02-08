@@ -3,7 +3,7 @@ package Excercise;
 public class Welcome {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// printing the message
 		System.out.println("Welcome to Java learning");
 	}
 
